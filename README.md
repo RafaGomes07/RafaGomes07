@@ -17,6 +17,7 @@ Hoje estruturo a área de dados da empresa: modelos em esquema estrela sobre o S
 |---|---|
 | [oee-injecao-plastica](https://github.com/RafaGomes07/oee-injecao-plastica) | OEE de injeção plástica calculado em tempo e conciliado ao relatório oficial do MES, com erro médio de 0,07 pp |
 | [dosador-gravimetrico](https://github.com/RafaGomes07/dosador-gravimetrico) | Consumo pesado no dosador contra o backflush do ERP, e o caso de investimento (payback, VPL e TIR) que saiu dessa diferença |
+| [controlaai-fechamento-contabil](https://github.com/RafaGomes07/controlaai-fechamento-contabil) | App web do fechamento contábil (React, Node e SQLite): cronograma em dias úteis, aprovação com segregação de funções e trilha de auditoria |
 
 **Stack**
 
